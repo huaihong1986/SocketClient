@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1B5872C-8D2A-428F-95BE-BCE8E61628CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SocketClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E5C5D0C555EE3152431E9F88B287CC1A5C75E897</key>
+		<string>https://github.com/huaihong1986/SocketClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SocketClient.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E5C5D0C555EE3152431E9F88B287CC1A5C75E897</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/huaihong1986/SocketClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5C5D0C555EE3152431E9F88B287CC1A5C75E897</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5C5D0C555EE3152431E9F88B287CC1A5C75E897</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocketClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>
